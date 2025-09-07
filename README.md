@@ -1,4 +1,7 @@
 # demo
 This is my first Git repository
 <br>
-Author - Ashika Shrivastava
+Author - Ashika (shrivastava)
+
+
+
